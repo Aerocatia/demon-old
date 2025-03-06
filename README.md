@@ -1,3 +1,6 @@
+# NOTICE
+### Future development has moved to a new project [here](https://github.com/Aerocatia/demon)
+
 # Demon
 
 Demon is a project with the goal of reverse engineering and reimplementing the functionality of the Halo PC demo, AKA
